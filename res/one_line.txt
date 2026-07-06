@@ -1,0 +1,2 @@
+Hola mundo desde un fichero aqui estamos en machine.
+Python es un lenguaje de programación.
